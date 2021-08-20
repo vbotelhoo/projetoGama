@@ -1,0 +1,9 @@
+a {
+    background: ghostwhite;
+}
+
+button {
+    text-align: center;
+    display: flex;
+    right: 100%;
+}
